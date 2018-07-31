@@ -1,0 +1,16 @@
+/*describing background color blue*/
+body{
+    background-color: blue;
+}
+/* providing text color of h1 white*/
+header h1{
+    color: white;
+}
+/*increasing the specificity of body*/
+html body{
+    background-color: blue;}
+
+/*increasing the specificity of h1*/
+header.main h1.title{
+    color: white;
+}

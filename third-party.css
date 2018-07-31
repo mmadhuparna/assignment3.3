@@ -1,0 +1,8 @@
+/*describing background color red*/
+body{
+    background-color: red;
+}
+/* providing text color of h1 blue*/
+header h1{
+    color: blue;
+}
